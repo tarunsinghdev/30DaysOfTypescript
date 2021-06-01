@@ -1,6 +1,6 @@
 # Day 1 TypeScript Basics & Basic Types
 
-> :tada: Welcome to **30DaysOfTypeScript**. Follow along with my journey and let's learn together
+:tada: Welcome to **30DaysOfTypeScript**. Follow along with my journey and let's learn together
 
 ## Resources
 
