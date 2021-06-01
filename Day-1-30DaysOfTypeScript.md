@@ -9,9 +9,9 @@
 
 ## Table Of Content
 
-[ x ] What is TypeScript?
-[ x ] Installation
-[ x ] Basic Types
+- [ x ] What is TypeScript?
+- [ x ] Installation
+- [ x ] Basic Types
 
 - number
 - string
@@ -32,3 +32,5 @@
 ## Notes
 
 [Day-1-30DaysOfTypeScript.pdf](https://github.com/tarunsinghdev/30DaysOfTypescript/files/6578394/Day-1-30DaysOfTypeScript.pdf)
+
+<strong><a href="https://github.com/tarunsinghdev/30DaysOfTypescript/files/6578394/Day-1-30DaysOfTypeScript.pdf" target="_blank" rel = "noreferrer">Day-1-30DaysOfTypeScript.pdf</a></strong>
