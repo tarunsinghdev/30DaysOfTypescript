@@ -1,13 +1,13 @@
-# Day 1 TypeScript Basics & Basic Types
+### :tada: Welcome to **30DaysOfTypeScript**. Follow along with my journey and let's learn together
 
-:tada: Welcome to **30DaysOfTypeScript**. Follow along with my journey and let's learn together
+# :pushpin: Day 1 TypeScript Basics & Basic Types
 
-## Resources
+## :open_file_folder: Resources
 
 - https://www.educative.io/blog/typescript-tutorial
 - https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
 
-## Table Of Content
+## :bookmark: Table Of Content
 
 - [x] What is TypeScript?
 - [x] Installation
@@ -29,9 +29,9 @@
 - unknown type
 - never type
 
-## Notes
+## :pencil: Notes
 
-- **Download PDF** [Day-1-30DaysOfTypeScript.pdf](https://github.com/tarunsinghdev/30DaysOfTypescript/files/6578394/Day-1-30DaysOfTypeScript.pdf)
+- :arrow_down_small: **Download PDF** [Day-1-30DaysOfTypeScript.pdf](https://github.com/tarunsinghdev/30DaysOfTypescript/files/6578394/Day-1-30DaysOfTypeScript.pdf)
 
 ![Day-1-30DaysOfTypeScript_1](https://user-images.githubusercontent.com/25122604/120370973-d8eb1c00-c332-11eb-91f9-803fa6f15191.jpg)
 ![Day-1-30DaysOfTypeScript_2](https://user-images.githubusercontent.com/25122604/120370984-db4d7600-c332-11eb-96be-b63ca0c21807.jpg)
