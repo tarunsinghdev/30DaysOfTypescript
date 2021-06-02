@@ -18,7 +18,7 @@
 
 :paperclip: [Click to read more](https://github.com/tarunsinghdev/30DaysOfTypeScript/blob/master/Day-1-30DaysOfTypeScript.md)
 
-## :large_orange_diamond: Day 2 (2 June, 2021)
+## :large_orange_diamond: Day 2 (2 June, 2021) TypeScript Compiler & Configurations
 
 :paperclip: [Click to read more](https://github.com/tarunsinghdev/30DaysOfTypeScript/blob/master/Day-2-30DaysOfTypeScript.md)
 
