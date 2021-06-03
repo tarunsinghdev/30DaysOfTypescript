@@ -24,7 +24,7 @@
 
 ## :large_orange_diamond: Day 3 (3 June, 2021)
 
-:construction: Not yet started :construction:.
+:paperclip: [Click to read more](https://github.com/tarunsinghdev/30DaysOfTypeScript/blob/master/Day-3-30DaysOfTypeScript.md)
 
 ## :large_orange_diamond: Day 4 (4 June, 2021)
 
