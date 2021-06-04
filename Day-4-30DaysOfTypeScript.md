@@ -6,7 +6,7 @@
 - https://www.typescriptlang.org/docs/handbook/2/narrowing.html#discriminated-unions
 - https://www.typescriptlang.org/docs/handbook/2/functions.html#function-overloads
 
-## :scroll: Table Of Content
+## :scroll: Table Of Contents
 
 - [x] Advanced Types
 - Intersection Types | Type Guards | Discriminated Unions | Type Casting | Index Types
