@@ -44,7 +44,7 @@
 
 ## :large_orange_diamond: Day 8 (8 June, 2021) Webpack 5:Setup, Configuration & Asset Modules
 
-:paperclip: [Webpack-in-practice](https://github.com/tarunsinghdev/30DaysOfTypescript/tree/master/Webpack-in-practice)<br/>
+:paperclip: [webpack-in-practice](https://github.com/tarunsinghdev/30DaysOfTypescript/tree/master/webpack-in-practice)<br/>
 :paperclip: [Click to read more](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-8-30DaysOfTypeScript.md)
 
 ## :large_orange_diamond: Day 9 (9 June, 2021)
