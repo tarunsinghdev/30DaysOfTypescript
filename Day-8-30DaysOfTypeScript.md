@@ -2,8 +2,9 @@
 
 ## :open_file_folder: Resources
 
-- https://www.typescriptlang.org/docs/handbook/2/modules.html#modules-in-typescript
-- https://www.typescriptlang.org/docs/handbook/namespaces.html
+- https://webpack.js.org/guides/getting-started/
+- https://medium.com/@raviroshan.talk/webpack-understanding-the-publicpath-mystery-aeb96d9effb1
+- https://dev.to/smelukov/webpack-5-asset-modules-2o3h
 
 ## :scroll: Table Of Contents
 
