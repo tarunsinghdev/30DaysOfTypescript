@@ -12,7 +12,7 @@
 
 ## :bar_chart: Progress
 
-:recycle: [Day 7](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-7-30DaysOfTypeScript.md) / Day 30
+:recycle: [Day 8](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-8-30DaysOfTypeScript.md) / Day 30
 
 ## :large_orange_diamond: Day 1 (1 June, 2021) TypeScript Basics & Basic Types
 
@@ -42,9 +42,10 @@
 
 :paperclip: [Click to read more](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-7-30DaysOfTypeScript.md)
 
-## :large_orange_diamond: Day 8 (8 June, 2021)
+## :large_orange_diamond: Day 8 (8 June, 2021) Webpack - 5 Setup, Configuration & Asset Modules
 
-:construction: Not yet started :construction:.
+:paperclip: [Webpack-in-practice](https://github.com/tarunsinghdev/30DaysOfTypescript/tree/master/Webpack-in-practice)
+:paperclip: [Click to read more](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-8-30DaysOfTypeScript.md)
 
 ## :large_orange_diamond: Day 9 (9 June, 2021)
 
