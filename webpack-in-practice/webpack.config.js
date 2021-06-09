@@ -14,6 +14,20 @@ module.exports = {
         test: /\.(png|svg| jpeg| gif| jpg)$/i,
         type: 'asset/resource',
       },
+      {
+        test: /\.css$/i,
+        use: ['style-loader', 'css-loader'],
+      },
+      {
+        test: /\.m?js$/,
+        exclude: /(node_modules|bower_component)/,
+        use: {
+          loader: 'babel-loader',
+          options: {
+            presets: ['@babel/preset-env'],
+          },
+        },
+      },
     ],
   },
 };
