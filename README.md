@@ -52,7 +52,7 @@
 :paperclip: [webpack-in-practice](https://github.com/tarunsinghdev/30DaysOfTypescript/tree/master/webpack-in-practice)<br/>
 :paperclip: [Click to read more](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-9-30DaysOfTypeScript.md)
 
-## :large_orange_diamond: Day 10 (10 June, 2021) Plugin[Contd.], Production & Development builds
+## :large_orange_diamond: Day 10 (10 June, 2021) Webpack 5:Plugin[Contd.], Production & Development builds
 
 :paperclip: [webpack-in-practice](https://github.com/tarunsinghdev/30DaysOfTypescript/tree/master/webpack-in-practice)<br/>
 :paperclip: [Click to read more](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-10-30DaysOfTypeScript.md)
