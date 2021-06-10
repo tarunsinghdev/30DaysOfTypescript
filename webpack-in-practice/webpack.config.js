@@ -4,7 +4,10 @@ const TerserPlugin = require('terser-webpack-plugin');
 const CssMinimizerPlugin = require('css-minimizer-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
+const devMode = process.env.NODE_ENV !== 'production';
+
 module.exports = {
+  target: 'web',
   entry: './src/index.js',
   output: {
     filename: 'bundle.[contenthash].js',
@@ -12,7 +15,15 @@ module.exports = {
     publicPath: '',
     clean: true,
   },
-  mode: 'none',
+  mode: 'development',
+  devServer: {
+    contentBase: path.resolve(__dirname, 'dist'),
+    // static: path.resolve(__dirname, 'dist'),
+    index: 'index.html',
+    hot: true,
+    port: 8080,
+    // writeToDisk: true,
+  },
   module: {
     rules: [
       {
@@ -38,7 +49,7 @@ module.exports = {
   plugins: [
     new TerserPlugin(),
     new MiniCssExtractPlugin({
-      filename: 'styles.[contenthash].css',
+      filename: devMode ? 'styles.css' : 'styles.[contenthash].css',
     }),
     new CssMinimizerPlugin(),
     new HtmlWebpackPlugin(),
