@@ -1,5 +1,5 @@
-import helloWorld from './hello-world.js';
-import addImage from './add-image.js';
+import helloWorld from './components/hello-world/hello-world.js';
+import addImage from './components/add-image/add-image.js';
 import './style.css';
 
 const mainHeading = document.querySelector('h2');
