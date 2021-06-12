@@ -12,7 +12,7 @@
 
 ## :bar_chart: Progress
 
-:recycle: [Day 11](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-11-30DaysOfTypeScript.md) / Day 30
+:recycle: [Day 12](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-12-30DaysOfTypeScript.md) / Day 30
 
 ## :large_orange_diamond: Day 1 (1 June, 2021) TypeScript Basics & Basic Types
 
@@ -62,9 +62,10 @@
 :paperclip: [webpack-in-practice](https://github.com/tarunsinghdev/30DaysOfTypescript/tree/master/webpack-in-practice)<br/>
 :paperclip: [Click to read more](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-11-30DaysOfTypeScript.md)
 
-## :large_orange_diamond: Day 12 (12 June, 2021)
+## :large_orange_diamond: Day 12 (12 June, 2021) React and TypeScript:Setup, Types Around Props, State, Refs, Event Handlers
 
-:construction: Not yet started :construction:.
+:paperclip: [webpack-in-practice](https://github.com/tarunsinghdev/30DaysOfTypescript/tree/master/react-with-typescript)<br/>
+:paperclip: [Click to read more](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-12-30DaysOfTypeScript.md)
 
 ## :large_orange_diamond: Day 13 (13 June, 2021)
 
