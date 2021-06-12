@@ -64,7 +64,7 @@
 
 ## :large_orange_diamond: Day 12 (12 June, 2021) React and TypeScript:Setup, Types Around Props, State, Refs, Event Handlers
 
-:paperclip: [webpack-in-practice](https://github.com/tarunsinghdev/30DaysOfTypescript/tree/master/react-with-typescript)<br/>
+:paperclip: [react-with-typescript](https://github.com/tarunsinghdev/30DaysOfTypescript/tree/master/react-with-typescript)<br/>
 :paperclip: [Click to read more](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-12-30DaysOfTypeScript.md)
 
 ## :large_orange_diamond: Day 13 (13 June, 2021)
