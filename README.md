@@ -71,7 +71,7 @@
 
 :x: Missed :pensive:, been busy :x:
 
-## :large_orange_diamond: Day 13 (14 June, 2021)
+## :large_orange_diamond: Day 13 (14 June, 2021) TypeScript with Redux
 
 :paperclip: [Click to read more](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-13-30DaysOfTypeScript.md)
 
