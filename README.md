@@ -12,7 +12,7 @@
 
 ## :bar_chart: Progress
 
-:recycle: [Day 12](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-12-30DaysOfTypeScript.md) / Day 30
+:recycle: [Day 13](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-13-30DaysOfTypeScript.md) / Day 30
 
 ## :large_orange_diamond: Day 1 (1 June, 2021) TypeScript Basics & Basic Types
 
@@ -69,11 +69,11 @@
 
 ## :large_orange_diamond: Day 13 (13 June, 2021)
 
-:construction: Not yet started :construction:.
+:x: Missed :pensive:, been busy :x:
 
-## :large_orange_diamond: Day 14 (14 June, 2021)
+## :large_orange_diamond: Day 13 (14 June, 2021)
 
-:construction: Not yet started :construction:.
+:paperclip: [Click to read more](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-13-30DaysOfTypeScript.md)
 
 ## :large_orange_diamond: Day 15 (15 June, 2021)
 
