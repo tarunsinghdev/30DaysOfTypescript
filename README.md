@@ -69,7 +69,7 @@
 
 ## :large_orange_diamond: Day 13 (13 June, 2021)
 
-:x: Missed :pensive:, been busy :x:
+:x: :x: Missed :pensive:, been busy :x: :x:
 
 ## :large_orange_diamond: Day 13 (14 June, 2021) TypeScript with Redux
 
