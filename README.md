@@ -12,7 +12,7 @@
 
 ## :bar_chart: Progress
 
-:recycle: [Day 13](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-13-30DaysOfTypeScript.md) / Day 30
+:recycle: [Day 14](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-14-30DaysOfTypeScript.md) / Day 30
 
 ## :large_orange_diamond: Day 1 (1 June, 2021) TypeScript Basics & Basic Types
 
@@ -75,9 +75,9 @@
 
 :paperclip: [Click to read more](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-13-30DaysOfTypeScript.md)
 
-## :large_orange_diamond: Day 15 (15 June, 2021)
+## :large_orange_diamond: Day 14 (15 June, 2021) TypeScript with Redux[Contd.]
 
-:construction: Not yet started :construction:.
+:paperclip: [Click to read more](https://github.com/tarunsinghdev/30DaysOfTypescript/blob/master/Day-14-30DaysOfTypeScript.md)
 
 ## :large_orange_diamond: Day 16 (16 June, 2021)
 
